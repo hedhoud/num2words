@@ -78,6 +78,7 @@ Besides the numerical argument, there are two main optional arguments, ``to:`` a
 * ``en`` (English, default)
 * ``am`` (Amharic)
 * ``ar`` (Arabic)
+* ``ar_tn`` (Arabic - Tunisien)
 * ``az`` (Azerbaijani)
 * ``by`` (Belarusian)
 * ``ce`` (Chechen)
